@@ -1,0 +1,17 @@
+/home/fnadeau/.cache/templateflow/templateflow/dataset_description.json
+/home/fnadeau/.cache/templateflow/templateflow/tpl-Fischer344
+/home/fnadeau/.cache/templateflow/templateflow/tpl-fsaverage
+/home/fnadeau/.cache/templateflow/templateflow/tpl-fsLR
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNI152Lin
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNI152NLin2009cAsym
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNI152NLin2009cSym
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNI152NLin6Asym
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNI152NLin6Sym
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNIInfant
+/home/fnadeau/.cache/templateflow/templateflow/tpl-MNIPediatricAsym
+/home/fnadeau/.cache/templateflow/templateflow/tpl-NKI
+/home/fnadeau/.cache/templateflow/templateflow/tpl-OASIS30ANTs
+/home/fnadeau/.cache/templateflow/templateflow/tpl-PNC
+/home/fnadeau/.cache/templateflow/templateflow/tpl-RESILIENT
+/home/fnadeau/.cache/templateflow/templateflow/tpl-UNCInfant
+/home/fnadeau/.cache/templateflow/templateflow/tpl-WHS

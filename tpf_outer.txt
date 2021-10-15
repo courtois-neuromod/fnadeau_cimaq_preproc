@@ -1,0 +1,14 @@
+/home/fnadeau/.cache/templateflow/templateflow
+/home/fnadeau/.cache/templateflow/tpl-fsaverage
+/home/fnadeau/.cache/templateflow/tpl-fsLR
+/home/fnadeau/.cache/templateflow/tpl-MNI152Lin
+/home/fnadeau/.cache/templateflow/tpl-MNI152NLin2009cAsym
+/home/fnadeau/.cache/templateflow/tpl-MNI152NLin2009cSym
+/home/fnadeau/.cache/templateflow/tpl-MNI152NLin6Asym
+/home/fnadeau/.cache/templateflow/tpl-MNI152NLin6Sym
+/home/fnadeau/.cache/templateflow/tpl-MNIInfant
+/home/fnadeau/.cache/templateflow/tpl-MNIPediatricAsym
+/home/fnadeau/.cache/templateflow/tpl-NKI
+/home/fnadeau/.cache/templateflow/tpl-OASIS30ANTs
+/home/fnadeau/.cache/templateflow/tpl-PNC
+/home/fnadeau/.cache/templateflow/tpl-WHS

@@ -3,3 +3,18 @@
 	url = /lustre03/project/6003287/datasets/cima-q
 	datalad-id = 898ffde2-11ef-11ea-9a9e-3ea8d101da1a
 	datalad-url = /lustre03/project/6003287/datasets/cima-q
+[submodule "src/PyMVPA"]
+	path = src/PyMVPA
+	url = https://github.com/BIDS-Apps/PyMVPA.git
+[submodule "src/cimaq_memory"]
+	path = src/cimaq_memory
+	url = git@github.com:FrancoisNadeau/cimaq_memory.git
+[submodule "src/datalad-docker"]
+	path = src/datalad-docker
+	url = https://github.com/templateflow/datalad-docker.git
+[submodule "src/fmriprep-slurm"]
+	path = src/fmriprep-slurm
+	url = https://github.com/FrancoisNadeau/fmriprep-slurm.git
+[submodule "src/rsHRF"]
+	path = src/rsHRF
+	url = https://github.com/BIDS-Apps/rsHRF.git
